@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "xRBj+n0Ioa1ON0acs3025tQt/66koryj6A7fNC1XCyAjKeNrqD/pxOaMqWGBaPEsk4XSfKn0cv3qOzULSgb2uw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Prof. Miguel\\uc12-imc-xunit\\imc-xunit\\imc-xunit.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Microsoft.NET.Test.Sdk (>= 17.1.0)' para 'net6.0'. PackageSourceMapping is enabled, the following source(s) were not considered: nuget.org.",
+      "libraryId": "Microsoft.NET.Test.Sdk",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'xunit (>= 2.4.1)' para 'net6.0'. PackageSourceMapping is enabled, the following source(s) were not considered: nuget.org.",
+      "libraryId": "xunit",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'xunit.runner.visualstudio (>= 2.4.3)' para 'net6.0'. PackageSourceMapping is enabled, the following source(s) were not considered: nuget.org.",
+      "libraryId": "xunit.runner.visualstudio",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'coverlet.collector (>= 3.1.2)' para 'net6.0'. PackageSourceMapping is enabled, the following source(s) were not considered: nuget.org.",
+      "libraryId": "coverlet.collector",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
